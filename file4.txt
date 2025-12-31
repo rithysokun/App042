@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 new file test --> cherry pick
+=======
+file4 new file 
+hello world
+>>>>>>> main
